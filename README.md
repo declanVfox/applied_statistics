@@ -1,5 +1,4 @@
-# applied_ststistics
-Applied Statistics Assessments
+# Applied Statistics Assessments
 **by Declan Fox**
 ***
 ## Running the Code
