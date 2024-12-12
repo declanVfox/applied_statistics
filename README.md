@@ -3,7 +3,7 @@
 
 This repository contains 2 Jupyter notebooks that perform various statistical analyses.
 
-`Project.ipynb`
+**`project.ipynb`**
 
 This notebook analyzes the [PlantGrowth R dataset](https://vincentarelbundock.github.io/Rdatasets/csv/datasets/PlantGrowth.csv). Here are some of the tasks it performs:
 
@@ -13,7 +13,7 @@ This notebook analyzes the [PlantGrowth R dataset](https://vincentarelbundock.gi
 - Performs ANOVA to check for significant differences among the three groups: ctrl, trt1, and trt2.
 - Explains why ANOVA is more appropriate than multiple t-tests when comparing more than two groups.
 
-`Tasks.ipynb`
+**`tasks.ipynb`**
 
 This notebook contains additional smaller tasks related to statistical concepts:
 
